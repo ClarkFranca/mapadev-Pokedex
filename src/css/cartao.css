@@ -6,7 +6,7 @@
 
 .cartao-topo {
     padding: 30px 40px 0px;
-    background-image: url(src/imagens/pokebola.png);
+    background-image: url("../imagens/pokebola.png");
     background-repeat: no-repeat;
     background-size: 100%;
     
